@@ -1,0 +1,43 @@
+-- THIS FILE IS GENERATED. DON'T TOUCH IT!!!
+
+-- state o1
+
+! create x : Personne
+!     x.nom := 'xi'
+!     x.age := 26
+
+! create pg : CompagnieDExploitation
+!     pg.nom := 'PetroGaz'
+!     pg.ca := 1500000
+!     pg.rang := 238
+
+! create a : Personne
+!     a.nom := 'ahmed'
+!     a.age := 53
+
+! create e2 : Emploi
+!     e2.salaire := 500.0
+!     e2.periode := Periode::semaine
+
+! create abe : Compagnie
+!     abe.nom := 'AElec'
+!     abe.ca := 325000
+
+! create e1 : Emploi
+!     e1.salaire := 1000.0
+!     e1.periode := Periode::mois
+
+! create m : Personne
+!     m.nom := 'noe'
+!     m.age := 19
+
+
+! insert(x,pg) into Dirige
+! insert(x,abe) into Dirige
+! insert(a,abe) into Dirige
+! insert(e2,pg) into EstEmploiDans
+! insert(e1,abe) into EstEmploiDans
+! insert(m,e1) into APourEmploi
+! insert(m,e2) into APourEmploi
+
+check -v -d

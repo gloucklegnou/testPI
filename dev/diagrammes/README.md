@@ -1,0 +1,1 @@
+Ce répertoire contient les diagrammes décrivant l'implémentation.

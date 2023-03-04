@@ -1,0 +1,1 @@
+Ce dossier contient les différents diagrammes de permissions.
