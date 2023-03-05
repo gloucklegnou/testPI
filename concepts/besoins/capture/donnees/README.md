@@ -1,0 +1,1 @@
+Ce répertoire contient 3 tables simplifiées (des colonnes ont été enlevées) correspondant à des données de test du projet InterMob. L'intégralité des colonnes (et tables) utilisées dans ce contexte est décrite dans `docs/(C)-dictionnaries.md`. Le schéma complet de la base de données est également disponible dans `docs/(D)-restore.sql`.
