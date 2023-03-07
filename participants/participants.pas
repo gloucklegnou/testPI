@@ -5,5 +5,5 @@
 // See https://modelscript.rtfd.io/en/latest/languages/participants/index.html
 //=========================================================================
 
-participant model CyberCarnet
+participant model CyberMobilite
 import glossary model from "../glossaries/glossaries.gls"

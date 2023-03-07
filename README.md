@@ -1,4 +1,4 @@
-CyberCarnet
+CyberMobilite
 ===========
 
 <brève description du projet>

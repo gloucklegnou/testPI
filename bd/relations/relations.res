@@ -5,6 +5,6 @@
 // See https://modelscript.rtfd.io/en/latest/languages/relations/index.html
 //=========================================================================
 
-relation model CyberCarnet
+relation model CyberMobilite
 import glossary model from "../glossaries/glossaries.gls"
 import class model from "../classes/classes.cl1"
